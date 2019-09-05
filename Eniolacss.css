@@ -1,0 +1,22 @@
+body {
+margin :1px;
+}
+img {
+	
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.img-circle {
+	padding:90%;
+	margin: 400%;
+}
+.firstrow {
+	height: 20px;
+	background-color:darkred;
+	color: white;
+}
+ 
+h3 {
+	color: darkred;
+}
